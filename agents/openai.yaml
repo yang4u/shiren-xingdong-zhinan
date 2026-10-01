@@ -1,0 +1,4 @@
+interface:
+  display_name: "识人行动指南"
+  short_description: "把倾听、提问和共情变成一次真实对话中的小行动，支持准备、演练与复盘"
+  default_prompt: "用 $shiren-xingdong-zhinan 帮我练习一次真实对话，每次只问我一个问题，并选一个能实际尝试的小动作。"
